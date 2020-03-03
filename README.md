@@ -8,11 +8,12 @@
 #### 目前大陆能正常访问地址
 
 
-* [https://ssr-a.xyz](https://ssr-a.xyz)
+* [https://ssr-b.xyz](https://ssr-b.xyz)
 
 #### 目前大陆无法正常正常访问地址(需翻墙)
 * [https://fastssr.cc](https://fastssr.cc)
 * [https://fastssr.nl](https://fastssr.nl)
+* [https://ssr-a.xyz](https://ssr-a.xyz)
 
 ####有任何疑问请联系电报群组管理
 * 电报通知群组:[https://t.me/fastssrs](https://t.me/fastssrs)
